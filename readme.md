@@ -1,7 +1,6 @@
 **Linux下的C开发是基本功**，<u>原因如下</u>：
-* Android源码追本溯源都是基于Linux c库，如binder,messagequeue等
-* Java很多实现也是基于C，如线程
-***
+* Android源码追本溯源都是基于Linux c库，如binder,messagequeue等 
+*** 
 # 开发环境
 * 系统
 CentOS
@@ -40,6 +39,7 @@ Brew install sshfs
 ```cmd
 ssh root@源主机公网地址
 ```
+* 安装vcpkg
 # 容器
 * Vector
 * Array
